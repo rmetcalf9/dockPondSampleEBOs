@@ -1,0 +1,7 @@
+{
+  "Deployments": {
+    "DEV": "0.0.1",
+    "PROD": "0.0.1",
+    "DEV_INT_TEST": "0.0.1"
+  }
+}
