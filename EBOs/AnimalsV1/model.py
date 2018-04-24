@@ -10,4 +10,4 @@ def getModel(appObj):
       'creationDate': fields.DateTime(dt_format=u'iso8601', description='Time job record was created'),
       'lastUpdateDate': fields.DateTime(dt_format=u'iso8601', description='Last time job record was changed (excluding runs)'),
       'lastRunDate': fields.DateTime(dt_format=u'iso8601', description='Last time job record was run')
-  }
+  })
