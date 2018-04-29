@@ -1,8 +1,8 @@
 {
   "Deployments": {
-    "DEV": "",
-    "PROD": "",
-    "DEV_INT_TEST": ""
+    "DEV": "0.0.5",
+    "PROD": "0.0.5",
+    "DEV_INT_TEST": "0.0.5"
   },
   "KeyFields": [
     "name"
