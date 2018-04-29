@@ -1,0 +1,10 @@
+{
+  "Deployments": {
+    "DEV": "",
+    "PROD": "",
+    "DEV_INT_TEST": ""
+  },
+  "KeyFields": [
+    "name"
+  ]
+}
