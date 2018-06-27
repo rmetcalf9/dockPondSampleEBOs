@@ -1,6 +1,7 @@
 {
   "Deployments": {
-    "DEV": "0.0.10"
+    "DEV": "0.0.10",
+    "TEST": "0.0.10"
   },
   "KeyFields": [
     "id"
