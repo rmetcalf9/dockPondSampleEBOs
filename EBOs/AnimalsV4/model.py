@@ -7,7 +7,7 @@ def getModel(flaskRestPlusAPI):
       'HatedByRobert': fields.Boolean(default=False,description='Does Robert hate this animal?'),
       'TestNestedStructure': fields.Nested(getTypeModel('ABC')),
       'TestListStructure': fields.list(fields.String(default='',description='list item')),
-      'TestNestedListStructure': fields.list(fields.Nested(getTypeModel('DEF'))
+      'TestNestedListStructure': fields.list(fields.Nested(getTypeModel('DEF')))
   })
 
 def getTypeModel(typeName):
